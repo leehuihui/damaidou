@@ -1,7 +1,7 @@
 
 ::: center
 <div align="center">
-  <a href="https://tobebetterjavaer.com">
+  <a href="https://blog.hellolaws.com/">
     <img src="/image/logo.jpg" width="260px" alt="码农进阶之路">
   </a><br>
   <a href="https://blog.hellolaws.com/blog.html" target="_blank"><img src="https://img.shields.io/badge/博客-在线阅读-green.svg?style=for-the-badge"></a>
