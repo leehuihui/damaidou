@@ -26,7 +26,7 @@ npm install -D vuepress@next
   }
 }
 
-
+npm i -D vuepress-theme-hope
 npm i -D @vuepress/plugin-docsearch@next
 npm i -D vuepress-plugin-comment2@next
 npm i -D vuepress-plugin-pwa2@next
