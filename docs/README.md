@@ -18,7 +18,7 @@ actions:
 
 ## 推荐阅读
 
-- [推荐百度📗](https://www.baidu.com) ：百度前 一定要选好关键词！
+- [推荐百度📗](https://www.baidu.com) ：百度前 一定要选好关键词！!!!
 
 
 ## 首页
