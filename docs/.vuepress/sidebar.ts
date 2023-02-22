@@ -187,6 +187,37 @@ export const sidebarConfig = sidebar({
                 },
             ],
         },
+        {
+            text: "四、数据库",
+            collapsible: true,
+            children: [
+                {
+                    prefix:"db/",
+                    text: "4.1 mysql",
+                    collapsible: true,
+                    children: [
+                        "home",
+                    ],
+                },
+                {
+                    prefix:"db/",
+                    text: "4.2 oracle",
+                    collapsible: true,
+                    children: [
+                        "home",
+                    ],
+                },
+                {
+                    prefix:"db/",
+                    text: "4.3 redis",
+                    collapsible: true,
+                    children: [
+                        "home",
+                        "redis-mianshi1",
+                    ],
+                },
+            ],
+        },
 
     ],
 });
