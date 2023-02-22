@@ -28,7 +28,7 @@ export default hopeTheme({
     // 全局默认作者
     author: {
         name: "打麦兜",
-        url: "/about-the-author/",
+        url: "/about-author/",
     },
 
     // 加密
