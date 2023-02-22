@@ -31,25 +31,6 @@ export default hopeTheme({
         url: "/about-author/",
     },
 
-    // 加密
-    encrypt: {
-        config: {
-            // 这只会加密 config/page.html
-            "/nice-article/itmind/ideapjazjczxjhmzcmyjjhcxgxz.html": ["1110", "5210"],
-            "/nice-article/itmind/webstormjhmwebstormwdzsjhmxbxt.html": ["1110", "5210"],
-            "/nice-article/itmind/sublimetextzcmpjazjcqckyxbxt.html": ["1110", "5210"],
-        },
-    },
-    // 提示文字
-    encryptLocales: {
-        placeholder: "微信搜‘沉默王二’回复‘密码’获取口令",
-
-        /**
-         * Passwrod error hint
-         */
-        errorHint: "哈哈，别调戏人家啦，按规则来嘛",
-    },
-
     // navbar
     navbar: navbar,
 
