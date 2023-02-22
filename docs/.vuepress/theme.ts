@@ -58,7 +58,7 @@ export default hopeTheme({
 
     // 页脚支持
     footer: '<a href="https://beian.miit.gov.cn/" target="_blank">皖ICP备18008429号-2</a>'
-        +'<img src="/images/beian.png" height="15px" width="15px" />'
+        +'<img src="/image/beian.png" height="15px" width="15px" />'
         +'<a target="_blank" href="http://www.beian.gov.cn">'
         // +'<span>皖ICP备18008429号-2</span>'
         +'</a>',

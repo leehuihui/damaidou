@@ -2,7 +2,7 @@
 title: 我是谁 ？
 shortTitle: 我是谁 ？ 
 category:
-  - Java核心  
+  - author  
 tag:
   - author 
 description: author 描述 
